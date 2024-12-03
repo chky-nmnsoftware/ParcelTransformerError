@@ -1,0 +1,19 @@
+{
+  "name": "parceltest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node parcel-watch.mjs --port 2004"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "pixi.js": "^8.6.3"
+  },
+  "devDependencies": {
+    "open": "^10.1.0",
+    "parcel": "^2.12.0"
+  }
+}
